@@ -1,0 +1,751 @@
+brand,vehicle_age,km_driven,seller_type,fuel_type,transmission_type,mileage,engine,max_power,seats,selling_price
+Maruti,13,118168,Dealer,CNG,Manual,11.6,1800,176.7,5,292811.83
+Toyota,2,151314,Dealer,Petrol,Manual,20.9,2200,156.1,5,1859590.79
+Maruti,9,159932,Individual,Diesel,Manual,22.9,1500,92.9,7,272667.98
+Mahindra,13,137021,Individual,Petrol,Manual,12.6,800,137.2,5,670065.22
+Tata,5,163090,Dealer,Petrol,Automatic,12.2,1000,109.2,5,808046.53
+Ford,7,29763,Trustmark Dealer,Diesel,Manual,24.1,1197,153.6,5,1082736.36
+Hyundai,11,114980,Individual,Petrol,Automatic,23.4,800,134.8,5,431337.37
+Toyota,7,91503,Dealer,Petrol,Manual,21.4,1000,108.6,5,1400587.07
+Toyota,10,102201,Dealer,Diesel,Automatic,10.5,1197,104.0,5,1377538.42
+Ford,14,7210,Individual,Petrol,Automatic,15.0,1197,134.4,5,628102.08
+Ford,11,74244,Dealer,Diesel,Manual,10.4,1000,57.2,5,535134.01
+Mahindra,2,162211,Dealer,Petrol,Manual,17.6,1800,96.4,5,1453278.52
+Toyota,6,172784,Individual,Petrol,Manual,25.4,2200,139.5,5,1629388.64
+Honda,13,47744,Trustmark Dealer,Petrol,Automatic,11.6,1197,166.9,5,708809.97
+Mahindra,5,145750,Dealer,Petrol,Manual,22.9,2000,142.1,5,1427480.39
+Hyundai,9,17950,Dealer,Petrol,Automatic,10.7,1200,111.7,5,834456.62
+Mahindra,1,32358,Dealer,Petrol,Manual,19.9,2200,91.8,5,1793091.12
+Hyundai,16,75849,Dealer,Diesel,Manual,18.3,800,111.2,7,103671.82
+Toyota,8,145559,Individual,Petrol,Automatic,17.5,1498,47.9,6,1271981.96
+Toyota,2,55090,Dealer,Petrol,Automatic,14.8,1800,134.0,5,2083705.84
+Honda,1,111021,Trustmark Dealer,Petrol,Manual,19.4,800,95.1,6,1210374.0
+Ford,5,37290,Trustmark Dealer,Petrol,Automatic,14.4,1498,171.4,5,1270434.07
+Honda,7,174517,Trustmark Dealer,CNG,Manual,25.1,1800,165.6,5,1051519.51
+Maruti,13,61069,Dealer,Petrol,Automatic,22.7,800,80.4,7,64985.45
+Maruti,2,13108,Trustmark Dealer,Petrol,Automatic,20.2,1000,163.1,5,1079758.34
+Ford,13,58354,Trustmark Dealer,Petrol,Manual,10.2,1000,76.0,5,427418.82
+Ford,2,54079,Dealer,Diesel,Automatic,13.4,1500,153.6,5,1395502.27
+Kia,2,78656,Individual,CNG,Manual,15.1,1200,111.0,5,1488450.08
+Toyota,4,172890,Trustmark Dealer,Petrol,Automatic,20.8,1498,59.3,5,1548352.84
+Maruti,16,30708,Dealer,LPG,Automatic,17.9,2000,150.9,4,431996.09
+Honda,14,45841,Trustmark Dealer,Petrol,Manual,20.3,1498,162.1,5,668672.64
+Maruti,6,166838,Dealer,Diesel,Automatic,17.7,2000,78.5,5,575250.54
+Kia,13,172686,Individual,Petrol,Manual,12.5,1500,156.3,5,664952.14
+Ford,15,108142,Individual,Petrol,Automatic,12.0,1000,47.9,5,176025.44
+Kia,0,77837,Dealer,Diesel,Automatic,15.4,1200,113.1,7,1686502.13
+Toyota,0,89261,Individual,Petrol,Manual,19.7,1197,101.2,5,1765078.45
+Maruti,14,20106,Individual,CNG,Automatic,24.3,800,166.9,7,270650.09
+Toyota,13,113379,Dealer,Diesel,Automatic,19.1,1000,114.4,7,1005325.0
+Kia,6,123823,Dealer,Petrol,Manual,18.1,1000,101.3,5,962147.61
+Toyota,6,132913,Individual,Petrol,Manual,15.0,1800,173.1,7,1737866.85
+Kia,5,83428,Dealer,CNG,Manual,23.7,1500,116.9,5,1262487.05
+Hyundai,12,7291,Individual,Diesel,Automatic,12.2,2000,127.9,5,932808.2
+Toyota,1,94657,Trustmark Dealer,Petrol,Automatic,23.6,2200,125.1,5,2064896.92
+Ford,16,17128,Individual,Diesel,Manual,20.5,800,68.1,5,277749.1
+Tata,7,122590,Dealer,Diesel,Automatic,18.4,2000,125.9,7,1001136.91
+Kia,1,130099,Individual,Diesel,Automatic,23.2,1200,135.6,5,1593718.87
+Kia,12,114575,Individual,Petrol,Automatic,12.7,1197,65.0,7,635995.15
+Mahindra,6,23897,Trustmark Dealer,Diesel,Automatic,23.3,2200,109.7,5,1786737.84
+Maruti,12,152494,Trustmark Dealer,Petrol,Manual,20.8,2000,61.5,5,73910.34
+Toyota,0,18126,Dealer,Diesel,Manual,17.8,1197,104.7,5,2111850.41
+Mahindra,13,98537,Individual,Electric,Manual,14.8,2000,158.0,5,1004419.09
+Toyota,1,122850,Trustmark Dealer,Petrol,Manual,12.4,1197,149.9,5,1835601.82
+Honda,11,163789,Individual,Petrol,Manual,20.3,800,153.2,5,356214.75
+Hyundai,0,120774,Trustmark Dealer,CNG,Manual,21.9,1800,158.1,5,1238602.21
+Maruti,2,125829,Dealer,Diesel,Automatic,24.5,1500,66.0,5,810879.1
+Maruti,4,18896,Trustmark Dealer,Electric,Automatic,10.9,1500,128.2,5,997186.57
+Tata,12,74669,Individual,Petrol,Automatic,26.7,1000,106.9,5,421784.92
+Kia,9,80930,Individual,LPG,Automatic,19.8,1197,139.5,5,1183259.51
+Hyundai,2,83636,Dealer,Petrol,Automatic,12.0,1498,63.1,5,1148110.81
+Toyota,7,141618,Dealer,Diesel,Automatic,16.9,1200,74.4,5,1373697.63
+Ford,0,54462,Dealer,Petrol,Manual,19.7,1197,121.4,5,1318959.75
+Toyota,11,111379,Individual,Diesel,Manual,17.3,1498,129.5,5,1285157.98
+Kia,12,100938,Trustmark Dealer,CNG,Automatic,18.8,1498,153.0,5,950451.68
+Tata,8,8458,Individual,Petrol,Automatic,10.9,2000,82.9,5,889801.85
+Mahindra,5,12910,Trustmark Dealer,Petrol,Manual,24.6,2000,95.3,5,1520125.78
+Mahindra,2,91987,Dealer,LPG,Manual,23.1,2200,87.0,5,1525661.11
+Kia,6,166691,Dealer,Petrol,Automatic,18.9,1000,67.1,5,1066224.2
+Ford,16,172484,Dealer,CNG,Automatic,12.4,2200,105.5,5,428656.76
+Kia,12,8379,Dealer,Petrol,Automatic,13.1,1000,167.5,5,1023893.46
+Hyundai,4,35795,Dealer,Diesel,Automatic,11.4,1498,77.9,7,1145447.28
+Toyota,11,73818,Trustmark Dealer,Diesel,Automatic,16.2,800,117.8,5,1370535.07
+Honda,8,96111,Trustmark Dealer,CNG,Manual,25.5,1498,124.3,7,830329.53
+Toyota,8,152787,Dealer,Petrol,Manual,25.6,1200,130.2,5,1383915.4
+Honda,3,47390,Individual,CNG,Automatic,15.2,1498,125.8,4,1384100.33
+Hyundai,11,95122,Dealer,Electric,Automatic,18.1,1500,147.8,7,512015.47
+Honda,16,112582,Trustmark Dealer,CNG,Manual,22.5,1000,104.4,5,273896.54
+Tata,16,20198,Trustmark Dealer,Petrol,Automatic,22.7,1800,91.8,5,334154.1
+Toyota,13,173422,Dealer,Electric,Automatic,26.6,1498,100.6,6,1135129.47
+Hyundai,9,97733,Trustmark Dealer,CNG,Manual,10.6,2000,95.3,5,594980.58
+Ford,11,137521,Trustmark Dealer,Diesel,Manual,22.6,2000,153.1,5,706063.71
+Maruti,10,42823,Trustmark Dealer,Petrol,Automatic,21.5,1498,49.0,5,391252.11
+Toyota,11,46582,Individual,CNG,Automatic,24.5,1200,85.4,5,1263310.94
+Maruti,4,99390,Trustmark Dealer,Petrol,Automatic,15.8,800,141.9,6,914512.52
+Mahindra,5,139776,Dealer,Petrol,Manual,27.0,1500,139.6,5,1364748.6
+Tata,15,40288,Dealer,Petrol,Manual,11.1,1200,72.3,4,158823.53
+Ford,10,158648,Dealer,Petrol,Automatic,22.8,2200,118.0,5,757930.39
+Tata,3,101324,Individual,CNG,Manual,22.6,1498,124.8,5,926484.94
+Kia,4,54645,Individual,Petrol,Manual,14.8,2000,120.8,6,1452468.68
+Mahindra,7,155113,Dealer,Electric,Automatic,23.8,1800,166.8,5,1367934.89
+Hyundai,9,58181,Individual,Diesel,Manual,18.7,2200,103.5,4,650258.68
+Mahindra,1,53563,Individual,Petrol,Automatic,17.7,800,114.7,5,1634527.66
+Kia,1,114765,Dealer,Petrol,Automatic,13.5,1800,85.8,5,1621689.5
+Hyundai,0,52908,Individual,CNG,Manual,18.6,800,111.1,5,1156649.29
+Toyota,13,84634,Trustmark Dealer,Petrol,Manual,14.1,1197,109.8,5,1184750.43
+Mahindra,5,45189,Trustmark Dealer,Petrol,Manual,22.1,1498,65.3,5,1355781.19
+Maruti,15,17077,Individual,Petrol,Automatic,11.9,800,128.7,5,240733.53
+Hyundai,10,124056,Trustmark Dealer,Petrol,Manual,20.5,2000,67.0,5,434345.71
+Honda,4,45476,Trustmark Dealer,Petrol,Automatic,26.7,1500,93.8,6,1341199.46
+Toyota,13,21221,Dealer,Petrol,Automatic,15.4,1200,55.5,4,1069417.48
+Tata,0,126675,Individual,Diesel,Automatic,22.6,1800,87.8,7,1328155.63
+Hyundai,2,139978,Individual,Diesel,Manual,18.6,1000,178.9,4,1057547.18
+Toyota,16,104427,Dealer,Petrol,Automatic,25.0,2200,117.4,5,1121753.03
+Mahindra,0,81045,Dealer,Petrol,Manual,24.2,1500,47.5,5,1650218.54
+Kia,14,151186,Individual,Diesel,Manual,16.7,1498,136.5,5,746203.88
+Honda,12,129452,Trustmark Dealer,Petrol,Automatic,10.2,1498,152.5,5,720669.15
+Ford,1,139226,Trustmark Dealer,Petrol,Manual,12.5,1800,174.8,5,1420928.7
+Ford,14,177051,Trustmark Dealer,Petrol,Manual,22.5,1498,163.6,5,362413.49
+Maruti,12,117846,Trustmark Dealer,Diesel,Automatic,11.8,1500,167.0,7,406944.71
+Toyota,1,1580,Individual,Diesel,Manual,26.6,800,95.9,5,1913481.59
+Mahindra,6,113171,Individual,Diesel,Automatic,17.0,1500,126.2,7,1388978.44
+Maruti,3,61508,Dealer,Petrol,Automatic,12.8,1000,137.4,5,977152.82
+Mahindra,4,36477,Individual,Diesel,Automatic,14.7,2000,72.3,5,1622720.06
+Maruti,7,82391,Individual,Petrol,Manual,26.3,1498,133.1,5,445087.76
+Hyundai,4,25239,Individual,Diesel,Manual,25.3,2000,177.9,8,1219981.65
+Toyota,1,74412,Individual,Petrol,Manual,11.6,1498,159.2,5,1933316.02
+Toyota,2,15644,Individual,Petrol,Manual,19.9,2000,144.2,5,1958844.07
+Kia,6,20867,Trustmark Dealer,Diesel,Manual,26.0,1000,61.3,7,1140163.33
+Tata,4,32831,Trustmark Dealer,Petrol,Automatic,17.6,1200,78.1,5,1104152.2
+Toyota,14,134726,Dealer,Diesel,Automatic,14.2,1197,66.8,7,1009057.88
+Maruti,13,59784,Dealer,Petrol,Manual,19.1,1498,103.7,5,218739.88
+Hyundai,16,17005,Dealer,LPG,Manual,19.4,1000,73.0,5,225809.82
+Tata,2,29116,Trustmark Dealer,Petrol,Automatic,17.9,1500,99.1,5,1274030.88
+Kia,16,26517,Trustmark Dealer,Diesel,Manual,12.6,1498,169.3,5,840702.77
+Ford,5,11220,Trustmark Dealer,Diesel,Manual,23.5,1800,73.6,7,1088211.64
+Honda,10,135958,Individual,Electric,Manual,11.1,1197,106.9,5,566918.88
+Kia,10,89916,Dealer,CNG,Automatic,22.3,1197,107.2,5,916711.46
+Maruti,8,110891,Trustmark Dealer,Petrol,Automatic,21.5,1000,159.2,5,484438.71
+Honda,15,134606,Trustmark Dealer,Electric,Manual,21.2,1498,85.8,7,436713.25
+Mahindra,12,71565,Dealer,Diesel,Manual,18.7,1800,167.5,5,1197079.63
+Tata,5,125677,Dealer,Petrol,Manual,11.6,1000,135.1,5,841647.53
+Honda,0,159836,Individual,Petrol,Manual,24.6,2000,78.3,5,1240116.47
+Kia,4,138094,Individual,Petrol,Manual,25.5,1800,72.3,5,1043243.83
+Kia,16,105245,Dealer,Petrol,Manual,15.4,1500,176.8,5,668815.53
+Toyota,0,97523,Dealer,CNG,Automatic,17.5,1500,171.4,7,2094837.13
+Kia,9,127133,Dealer,Diesel,Automatic,14.2,1200,168.2,7,1131264.96
+Ford,16,4741,Trustmark Dealer,Diesel,Manual,18.2,1800,106.6,5,551065.96
+Mahindra,4,55663,Individual,Diesel,Manual,13.7,1200,155.2,7,1527842.74
+Honda,0,8011,Dealer,Diesel,Manual,12.4,2000,149.5,5,1749626.18
+Tata,16,52279,Individual,Petrol,Manual,20.5,1200,170.9,8,308631.71
+Ford,2,106358,Trustmark Dealer,Petrol,Manual,21.3,2000,60.1,7,1156226.52
+Hyundai,7,91648,Dealer,Petrol,Manual,21.1,1800,178.9,8,939363.5
+Maruti,1,123327,Trustmark Dealer,Electric,Manual,17.8,1197,102.3,5,844154.34
+Kia,6,58950,Trustmark Dealer,CNG,Automatic,17.1,2000,88.4,5,1383871.17
+Hyundai,8,40730,Trustmark Dealer,Petrol,Automatic,11.6,2000,65.7,5,796395.24
+Toyota,0,41578,Individual,Petrol,Automatic,10.6,1800,133.1,6,2172270.61
+Maruti,2,12663,Trustmark Dealer,Diesel,Automatic,23.9,1498,57.5,5,1137895.48
+Toyota,4,59585,Trustmark Dealer,Petrol,Automatic,17.9,1800,94.7,5,1823310.9
+Mahindra,12,173169,Individual,Petrol,Manual,13.0,1000,156.1,5,827678.54
+Kia,2,177805,Dealer,Petrol,Automatic,24.9,1200,176.7,7,1408871.53
+Toyota,3,85694,Dealer,Petrol,Manual,19.6,1800,119.4,6,1948604.03
+Tata,0,95962,Individual,Diesel,Manual,14.4,1498,101.5,5,1078595.02
+Honda,9,29238,Dealer,Petrol,Manual,15.4,1498,121.2,5,1003217.36
+Honda,0,2690,Individual,CNG,Automatic,12.9,1500,165.2,5,1785066.2
+Kia,15,85964,Individual,Petrol,Manual,13.3,1500,136.7,5,601046.53
+Tata,3,19732,Dealer,Petrol,Manual,24.6,1000,88.3,5,953744.27
+Toyota,6,62264,Individual,Diesel,Manual,25.1,1000,170.5,5,1593404.2
+Maruti,1,83309,Dealer,Petrol,Manual,22.8,2000,155.7,5,1169880.12
+Tata,0,38584,Dealer,Petrol,Manual,19.8,2200,153.8,5,1416548.85
+Honda,8,96020,Dealer,Electric,Automatic,16.8,1200,123.9,5,996438.91
+Hyundai,3,176756,Individual,CNG,Manual,16.1,1500,100.2,5,790178.33
+Tata,15,144568,Trustmark Dealer,Petrol,Automatic,17.7,1197,121.7,5,245510.7
+Honda,9,67197,Individual,Petrol,Manual,11.6,1200,67.4,5,695917.27
+Kia,3,140708,Dealer,Diesel,Automatic,24.1,1197,170.2,5,1589261.66
+Ford,0,118526,Trustmark Dealer,Petrol,Manual,19.8,2200,45.6,4,1323717.77
+Ford,9,15904,Individual,Diesel,Manual,18.4,2000,107.9,4,967241.81
+Ford,5,158624,Trustmark Dealer,Petrol,Automatic,14.6,1500,66.7,5,723648.94
+Hyundai,9,44087,Trustmark Dealer,LPG,Automatic,13.2,2000,125.2,7,781077.26
+Tata,13,91456,Dealer,Diesel,Automatic,20.3,2200,102.4,5,599830.18
+Hyundai,2,158736,Trustmark Dealer,CNG,Manual,15.2,1197,163.0,4,1035553.08
+Toyota,7,78616,Trustmark Dealer,Petrol,Automatic,16.4,1800,128.5,5,1769226.51
+Ford,8,167736,Individual,Petrol,Automatic,15.9,1000,58.1,7,533641.4
+Hyundai,13,75267,Trustmark Dealer,Petrol,Automatic,24.8,1500,130.6,5,570086.17
+Honda,0,37599,Dealer,Electric,Manual,10.7,2200,140.3,5,1655857.37
+Tata,0,56661,Trustmark Dealer,CNG,Automatic,11.0,1000,157.7,5,1349726.41
+Maruti,15,156951,Dealer,Petrol,Automatic,11.1,1498,175.8,5,139178.58
+Toyota,4,36430,Trustmark Dealer,Petrol,Automatic,22.0,2000,157.1,7,2088651.58
+Honda,16,113118,Individual,Diesel,Manual,19.2,1498,166.4,7,559709.8
+Kia,8,82741,Dealer,Petrol,Manual,16.7,1200,57.1,5,969842.26
+Mahindra,7,35660,Trustmark Dealer,Diesel,Manual,12.7,800,72.8,7,1265864.41
+Tata,8,119904,Trustmark Dealer,Electric,Manual,10.8,1197,65.7,5,460935.46
+Hyundai,9,66218,Trustmark Dealer,Diesel,Automatic,13.4,1500,153.1,5,815902.12
+Toyota,16,23839,Dealer,Petrol,Manual,17.4,1197,172.7,5,1128175.1
+Maruti,9,76719,Individual,Petrol,Manual,21.4,1500,103.7,5,437728.67
+Ford,2,129005,Trustmark Dealer,Petrol,Automatic,18.5,800,115.1,5,1068901.8
+Honda,16,18719,Dealer,Petrol,Automatic,11.1,1200,125.0,5,587444.0
+Toyota,0,108021,Trustmark Dealer,Petrol,Manual,18.1,2200,53.1,6,1896232.63
+Mahindra,13,162707,Dealer,Diesel,Manual,20.7,2000,91.9,5,908709.84
+Ford,16,127178,Dealer,Petrol,Automatic,18.6,2000,144.4,5,373555.73
+Toyota,12,63592,Individual,Petrol,Manual,22.7,1500,165.8,5,1446454.32
+Maruti,16,144635,Individual,Petrol,Manual,19.0,1197,164.2,5,60000.0
+Kia,2,135478,Dealer,Petrol,Automatic,14.6,1000,86.6,5,1316534.49
+Kia,11,27678,Individual,Petrol,Manual,22.7,2000,155.0,5,1105870.43
+Honda,4,61793,Dealer,Petrol,Manual,16.7,1498,77.5,5,1256551.02
+Hyundai,4,66423,Individual,Petrol,Automatic,16.3,1197,76.9,5,873996.62
+Honda,8,113490,Dealer,CNG,Automatic,20.4,2200,165.1,7,1141837.92
+Honda,7,137079,Individual,Petrol,Automatic,18.4,1498,100.0,5,963243.98
+Mahindra,14,178122,Individual,Petrol,Manual,24.4,2000,179.3,7,816951.91
+Hyundai,5,23946,Dealer,Petrol,Automatic,26.0,1500,91.5,5,1092374.66
+Hyundai,2,41017,Individual,Petrol,Automatic,16.8,2200,157.6,5,1369769.72
+Mahindra,2,41390,Trustmark Dealer,Petrol,Automatic,12.4,2200,136.5,6,1856033.62
+Ford,4,62257,Trustmark Dealer,Petrol,Manual,17.4,1200,79.2,5,1005455.46
+Toyota,6,133080,Trustmark Dealer,Petrol,Automatic,19.7,800,179.2,4,1700101.43
+Ford,8,131468,Trustmark Dealer,Petrol,Manual,22.7,1200,95.2,5,576252.93
+Toyota,6,78916,Dealer,CNG,Automatic,21.7,1500,177.7,5,1846476.43
+Hyundai,15,13803,Individual,Diesel,Manual,11.7,1800,108.2,5,426071.5
+Tata,7,43599,Individual,Diesel,Manual,23.6,2200,80.9,5,898644.19
+Honda,2,5226,Trustmark Dealer,Petrol,Automatic,24.4,1197,98.9,4,1485349.37
+Kia,10,78590,Trustmark Dealer,Petrol,Manual,24.5,2200,159.5,5,1223867.04
+Kia,14,97922,Individual,Diesel,Automatic,12.2,1800,150.4,7,826841.08
+Ford,7,11151,Trustmark Dealer,Diesel,Automatic,23.9,1800,146.2,5,1317093.81
+Ford,4,56253,Dealer,Petrol,Automatic,16.7,1500,151.2,7,1369501.98
+Kia,12,52820,Trustmark Dealer,Diesel,Automatic,23.5,1000,174.7,5,1129154.4
+Hyundai,16,71217,Dealer,Diesel,Automatic,26.8,1498,57.7,5,267299.36
+Maruti,4,93466,Trustmark Dealer,Petrol,Automatic,25.0,2200,85.7,5,785752.89
+Hyundai,10,53651,Dealer,Diesel,Automatic,13.7,800,141.1,5,823585.55
+Tata,0,81990,Dealer,CNG,Automatic,16.7,800,172.6,5,1226663.66
+Toyota,14,40968,Trustmark Dealer,CNG,Manual,19.0,1000,150.2,5,1046726.15
+Tata,0,61930,Trustmark Dealer,Diesel,Manual,22.6,1500,116.8,5,1291832.51
+Maruti,10,56570,Individual,CNG,Automatic,15.9,2000,123.1,5,515859.55
+Hyundai,15,122364,Trustmark Dealer,Petrol,Automatic,13.6,1000,57.2,5,60000.0
+Maruti,16,16697,Individual,Petrol,Automatic,19.9,2000,149.5,5,324988.79
+Honda,10,79759,Dealer,Diesel,Manual,15.9,1498,108.1,5,787349.79
+Kia,4,76525,Individual,Petrol,Automatic,15.6,2000,137.6,7,1516710.24
+Ford,13,37967,Individual,Petrol,Manual,25.5,1800,84.8,5,591186.85
+Honda,9,51933,Dealer,Diesel,Manual,12.3,1500,138.6,5,977125.24
+Toyota,1,135479,Dealer,Petrol,Manual,13.8,800,104.5,5,1652247.81
+Maruti,12,173005,Dealer,Petrol,Manual,25.8,1500,111.4,5,60000.0
+Ford,12,22480,Individual,Petrol,Automatic,25.7,1498,111.6,5,787182.04
+Toyota,7,106425,Individual,Petrol,Manual,10.0,800,103.3,5,1187974.48
+Mahindra,0,39573,Dealer,Petrol,Manual,12.8,2200,129.6,5,1917140.86
+Honda,7,52835,Trustmark Dealer,Petrol,Manual,18.5,2200,147.1,7,1081873.99
+Kia,3,130872,Individual,Petrol,Automatic,19.9,1197,179.1,8,1513534.25
+Honda,10,130190,Trustmark Dealer,LPG,Manual,19.0,1000,157.4,5,772132.43
+Hyundai,16,81365,Trustmark Dealer,CNG,Automatic,14.6,2000,88.3,5,368586.01
+Hyundai,8,104050,Dealer,Petrol,Automatic,15.7,1800,89.6,5,823002.01
+Toyota,14,177385,Dealer,Petrol,Manual,19.4,1800,47.9,5,781596.72
+Honda,11,160629,Individual,Petrol,Manual,19.9,800,47.9,7,318027.3
+Toyota,10,41970,Dealer,Petrol,Manual,23.6,800,165.6,4,1397626.9
+Toyota,15,61347,Dealer,Petrol,Automatic,21.2,1000,142.9,5,1070474.67
+Kia,8,101157,Individual,Petrol,Automatic,13.8,1200,51.2,5,922744.75
+Honda,0,59245,Dealer,Diesel,Manual,23.2,1500,154.4,5,1671692.32
+Kia,8,112131,Dealer,Petrol,Manual,13.8,800,106.4,5,907356.13
+Hyundai,14,102567,Trustmark Dealer,Petrol,Automatic,10.3,2200,169.9,7,623273.46
+Kia,12,129029,Trustmark Dealer,CNG,Manual,19.4,2200,55.6,7,841877.67
+Ford,10,87099,Dealer,Diesel,Automatic,22.6,1000,55.1,5,509034.01
+Toyota,8,130369,Dealer,Petrol,Automatic,22.5,2200,94.8,5,1429670.33
+Mahindra,7,107168,Trustmark Dealer,Diesel,Manual,24.6,1000,96.1,7,1133884.78
+Toyota,10,86466,Trustmark Dealer,Petrol,Manual,26.8,1800,65.3,5,1226600.74
+Kia,5,56511,Individual,Petrol,Automatic,14.8,1800,90.2,7,1410694.87
+Honda,14,7315,Dealer,LPG,Manual,12.0,1500,164.5,5,760174.91
+Honda,2,34488,Trustmark Dealer,Petrol,Automatic,12.4,1197,104.5,5,1391577.37
+Honda,4,77204,Individual,Diesel,Manual,21.1,1200,59.7,4,1132783.18
+Honda,7,58946,Dealer,Diesel,Manual,19.0,1200,125.1,4,1069501.98
+Kia,5,153916,Dealer,Petrol,Manual,26.0,2000,48.0,5,1119462.6
+Ford,4,138770,Trustmark Dealer,Diesel,Manual,26.7,2200,50.7,5,1028894.64
+Toyota,2,143075,Dealer,Electric,Manual,17.7,800,158.8,5,1636749.77
+Hyundai,16,53104,Dealer,Petrol,Manual,26.1,800,80.9,5,60000.0
+Toyota,7,2500,Trustmark Dealer,Petrol,Automatic,14.4,2200,113.1,7,1777342.2
+Hyundai,4,75019,Trustmark Dealer,Petrol,Manual,26.6,1498,70.2,5,861776.4
+Tata,6,101787,Individual,Diesel,Manual,21.5,1000,80.6,5,715945.84
+Honda,12,83383,Dealer,Petrol,Manual,19.7,2000,73.9,7,581108.39
+Mahindra,0,102054,Dealer,Petrol,Automatic,22.7,1197,62.7,6,1591471.92
+Hyundai,10,28035,Trustmark Dealer,Diesel,Automatic,15.8,2200,67.0,5,831150.55
+Kia,3,81440,Dealer,Petrol,Manual,14.5,2200,50.3,5,1277484.31
+Honda,4,148589,Individual,Petrol,Manual,16.4,1000,97.0,5,829756.7
+Honda,1,109165,Individual,Petrol,Manual,26.8,1800,170.4,5,1396924.54
+Ford,5,6966,Trustmark Dealer,Diesel,Automatic,25.2,2000,103.6,5,1401025.97
+Kia,5,13183,Trustmark Dealer,Petrol,Automatic,23.1,2200,57.6,5,1563402.43
+Mahindra,13,133319,Trustmark Dealer,Diesel,Automatic,11.7,2000,82.2,5,1005908.1
+Mahindra,7,83805,Individual,Petrol,Automatic,24.9,1200,81.5,7,1260516.09
+Kia,5,133529,Dealer,Petrol,Manual,18.5,1197,65.5,5,1028687.57
+Toyota,7,87513,Trustmark Dealer,Petrol,Automatic,23.3,2200,175.6,7,1828387.49
+Ford,8,100943,Individual,Diesel,Manual,14.5,1500,170.5,5,940478.05
+Tata,12,47581,Individual,Diesel,Manual,11.1,2000,114.2,5,665721.21
+Tata,2,72571,Trustmark Dealer,CNG,Manual,15.5,1000,124.3,5,1006051.24
+Tata,2,128605,Individual,Electric,Automatic,24.8,1498,110.1,7,1131979.74
+Ford,1,105621,Trustmark Dealer,LPG,Manual,16.0,1197,106.1,5,1071147.96
+Toyota,15,154754,Individual,Diesel,Automatic,10.7,800,133.3,5,950610.82
+Tata,1,144039,Trustmark Dealer,Diesel,Manual,12.3,2000,88.2,5,1163633.69
+Tata,5,150590,Individual,Petrol,Automatic,16.6,1197,71.6,5,695747.69
+Honda,6,44761,Dealer,Diesel,Automatic,16.4,1800,124.3,7,1312327.6
+Maruti,15,164221,Trustmark Dealer,Petrol,Automatic,21.9,1200,178.2,5,225213.06
+Tata,9,6397,Individual,Diesel,Manual,22.3,1498,162.4,5,854772.28
+Tata,12,106760,Trustmark Dealer,CNG,Manual,19.5,800,74.2,7,244675.82
+Tata,7,4674,Individual,Petrol,Automatic,13.5,1800,57.6,7,889684.29
+Maruti,3,50242,Individual,Electric,Manual,20.4,1800,86.5,5,790880.69
+Maruti,12,111399,Individual,Petrol,Automatic,26.1,1800,147.1,5,221609.42
+Kia,7,17538,Individual,Diesel,Automatic,20.2,1200,166.2,8,1416440.95
+Tata,6,1540,Individual,Petrol,Manual,13.0,1197,148.2,5,936376.72
+Kia,0,171579,Individual,Petrol,Automatic,14.5,800,178.1,5,1656770.1
+Hyundai,9,76270,Dealer,Diesel,Manual,24.1,1200,63.7,5,594079.6
+Hyundai,14,150010,Dealer,Diesel,Automatic,12.9,800,54.3,5,108282.68
+Maruti,12,1276,Individual,CNG,Automatic,11.5,2000,48.2,5,340071.85
+Mahindra,3,85189,Dealer,Petrol,Manual,18.3,2000,112.6,8,1616112.13
+Toyota,14,170155,Individual,Petrol,Manual,21.3,2000,137.5,5,1036794.85
+Maruti,6,63621,Dealer,Petrol,Manual,15.2,1197,78.9,5,587292.88
+Kia,14,38944,Dealer,Petrol,Manual,24.4,1800,77.1,5,781626.58
+Maruti,0,53892,Trustmark Dealer,Electric,Manual,22.7,800,54.7,5,824509.74
+Kia,6,101451,Individual,Diesel,Manual,14.4,2200,70.6,5,1287362.91
+Toyota,10,40634,Trustmark Dealer,Diesel,Manual,23.7,2200,78.4,5,1528558.17
+Kia,5,96618,Trustmark Dealer,Diesel,Automatic,17.1,2200,117.6,5,1645254.05
+Tata,4,175831,Dealer,Petrol,Automatic,12.1,2200,71.7,5,1016613.49
+Hyundai,15,167245,Trustmark Dealer,Petrol,Manual,20.7,1800,147.2,6,288451.14
+Ford,9,84837,Individual,Diesel,Manual,20.0,2200,134.7,5,911238.71
+Tata,16,90226,Individual,Petrol,Automatic,18.2,1498,122.2,5,251488.86
+Kia,9,136478,Dealer,Diesel,Automatic,20.9,1800,151.7,5,1272348.62
+Maruti,10,140207,Individual,Petrol,Automatic,24.8,1498,136.7,5,484306.44
+Hyundai,3,3683,Trustmark Dealer,Diesel,Manual,20.1,1500,90.7,5,1031079.11
+Maruti,12,67222,Dealer,Petrol,Manual,12.4,800,71.1,5,60000.0
+Tata,8,177440,Individual,Petrol,Manual,23.9,1200,96.8,5,353617.25
+Toyota,1,166304,Dealer,LPG,Manual,10.9,1200,169.6,7,1861939.11
+Ford,9,115995,Individual,Diesel,Automatic,10.6,1498,137.2,7,902760.77
+Mahindra,4,152276,Individual,LPG,Automatic,19.1,2200,131.7,5,1497174.29
+Kia,2,46487,Individual,Petrol,Manual,12.5,2000,75.6,5,1458767.82
+Honda,2,72309,Dealer,Petrol,Automatic,25.5,1500,65.4,7,1341654.79
+Ford,14,46644,Dealer,Diesel,Automatic,21.7,1500,47.2,7,458380.3
+Hyundai,13,26648,Dealer,Petrol,Automatic,18.6,1498,104.0,5,573477.33
+Maruti,16,80529,Individual,Petrol,Automatic,19.2,1197,112.4,5,60000.0
+Honda,4,99236,Trustmark Dealer,Petrol,Manual,17.9,1197,49.2,5,1012992.74
+Maruti,12,45415,Dealer,Diesel,Manual,10.7,1200,58.5,5,278420.24
+Tata,0,118895,Dealer,Diesel,Manual,19.3,2000,128.7,5,1437108.1
+Ford,2,25700,Trustmark Dealer,Petrol,Manual,11.3,2000,71.3,4,1258327.85
+Kia,5,37624,Individual,Petrol,Manual,23.1,1200,165.6,5,1469003.41
+Mahindra,15,89788,Individual,Petrol,Automatic,26.2,2200,100.5,5,941617.98
+Mahindra,12,88815,Individual,Petrol,Manual,14.0,1500,134.9,5,942887.83
+Ford,13,95513,Dealer,Diesel,Manual,18.4,1197,71.7,7,497039.68
+Ford,15,63829,Trustmark Dealer,LPG,Manual,25.8,1197,122.1,5,405621.35
+Honda,5,11695,Individual,Petrol,Automatic,18.4,800,164.8,5,1303811.64
+Hyundai,7,44237,Dealer,Petrol,Manual,13.4,2000,141.7,5,1004030.96
+Honda,14,48401,Individual,CNG,Manual,23.6,1800,134.7,7,783061.04
+Hyundai,7,42901,Trustmark Dealer,Diesel,Manual,25.8,1498,98.2,5,942677.05
+Kia,3,57374,Trustmark Dealer,Petrol,Automatic,14.2,1200,111.4,6,1504894.4
+Toyota,1,133299,Dealer,Petrol,Manual,17.6,1500,98.8,5,1737908.14
+Hyundai,8,22757,Dealer,Diesel,Automatic,15.8,1800,153.1,7,1119292.31
+Maruti,9,120068,Individual,Diesel,Manual,21.4,1197,79.4,5,215046.99
+Tata,6,11835,Trustmark Dealer,Electric,Manual,12.8,2000,155.7,4,1118760.05
+Ford,14,153416,Trustmark Dealer,Diesel,Manual,23.8,1200,140.8,5,368363.8
+Honda,3,64075,Individual,Diesel,Automatic,14.2,2200,78.7,5,1490563.36
+Ford,3,60581,Dealer,Electric,Manual,19.5,800,114.2,6,995234.12
+Mahindra,6,77683,Individual,Diesel,Automatic,12.3,2000,98.1,7,1501886.99
+Mahindra,5,36406,Dealer,Petrol,Automatic,17.8,1197,69.5,5,1542729.87
+Maruti,9,178180,Individual,CNG,Automatic,23.0,1000,93.7,5,112485.95
+Kia,3,138975,Dealer,Petrol,Automatic,22.3,1197,158.0,5,1464064.21
+Tata,13,163211,Trustmark Dealer,Diesel,Automatic,18.9,1800,133.1,7,551448.87
+Toyota,5,5799,Individual,LPG,Automatic,21.5,1498,158.6,8,1954458.58
+Honda,13,40169,Trustmark Dealer,Petrol,Manual,16.0,1800,132.6,5,768626.5
+Toyota,2,86175,Individual,Petrol,Manual,16.0,1500,74.2,5,1669155.4
+Mahindra,9,104531,Trustmark Dealer,Petrol,Automatic,11.3,2000,144.9,8,1461416.39
+Maruti,9,95473,Dealer,Petrol,Automatic,23.1,1800,179.8,5,652287.64
+Tata,10,109762,Individual,Petrol,Automatic,22.4,1197,69.8,5,438702.98
+Hyundai,14,38211,Trustmark Dealer,Petrol,Manual,19.5,800,83.1,5,164886.96
+Maruti,15,135795,Individual,Diesel,Automatic,26.2,800,177.4,5,169902.28
+Hyundai,3,149680,Trustmark Dealer,Diesel,Manual,17.7,1000,107.5,6,914812.04
+Honda,10,171632,Dealer,Petrol,Automatic,10.8,1200,151.2,5,688875.92
+Kia,4,136759,Individual,Diesel,Automatic,11.1,1197,148.6,5,1400760.13
+Honda,7,56822,Trustmark Dealer,Petrol,Automatic,26.0,1800,134.2,5,1251454.83
+Ford,7,123452,Dealer,Petrol,Automatic,17.1,800,61.7,5,616532.26
+Honda,15,41179,Individual,Diesel,Automatic,10.3,1498,78.7,5,542106.29
+Maruti,4,26801,Dealer,Diesel,Automatic,12.8,800,57.6,5,843654.89
+Tata,9,60243,Individual,Petrol,Manual,11.8,2200,62.1,5,765712.39
+Toyota,10,116536,Dealer,Electric,Automatic,26.6,800,72.5,5,1208547.61
+Maruti,6,79308,Trustmark Dealer,Petrol,Manual,16.4,2200,132.6,7,831431.34
+Tata,15,71411,Dealer,Diesel,Automatic,19.1,1000,135.9,5,406766.73
+Kia,4,46687,Trustmark Dealer,Petrol,Manual,27.0,1800,46.0,5,1312489.07
+Toyota,1,31301,Dealer,Diesel,Manual,16.2,1500,139.1,5,2143427.22
+Ford,9,129533,Trustmark Dealer,Diesel,Automatic,15.5,1498,56.6,5,708494.32
+Hyundai,16,150172,Individual,Diesel,Automatic,14.8,1000,101.5,5,143745.34
+Maruti,16,117278,Trustmark Dealer,Petrol,Manual,12.5,1800,168.3,5,60000.0
+Mahindra,2,94868,Individual,Petrol,Automatic,23.6,2200,175.9,5,1922252.29
+Maruti,4,166923,Dealer,Petrol,Automatic,19.8,1197,69.7,5,542865.16
+Honda,2,47767,Trustmark Dealer,Petrol,Manual,21.1,2000,140.9,5,1488836.62
+Hyundai,10,149505,Individual,Petrol,Automatic,11.1,1500,77.6,5,394421.35
+Ford,2,37836,Dealer,Diesel,Automatic,15.3,2000,119.1,5,1428227.81
+Kia,11,24767,Individual,Electric,Automatic,24.1,800,125.2,5,879486.88
+Maruti,1,72003,Trustmark Dealer,Diesel,Automatic,11.4,800,146.4,5,1080248.02
+Tata,12,81340,Trustmark Dealer,Petrol,Automatic,26.1,1800,57.4,5,467981.03
+Honda,12,107084,Dealer,Diesel,Manual,12.4,1197,81.0,7,479392.98
+Mahindra,6,84972,Trustmark Dealer,Petrol,Manual,13.9,1197,178.0,5,1555426.41
+Ford,0,54991,Individual,Diesel,Automatic,25.7,1200,148.2,5,1452259.4
+Honda,10,122843,Trustmark Dealer,Petrol,Manual,11.7,2000,132.5,5,746243.94
+Kia,8,83566,Dealer,Petrol,Automatic,14.6,1000,125.7,5,1260332.29
+Hyundai,15,58195,Dealer,Petrol,Automatic,13.1,1200,143.8,5,406511.15
+Toyota,16,13377,Trustmark Dealer,Diesel,Manual,25.4,2000,90.6,5,1242102.67
+Kia,4,43731,Individual,Petrol,Manual,23.3,1500,147.7,5,1425117.85
+Tata,7,134460,Dealer,CNG,Manual,25.6,2000,159.8,7,955132.33
+Ford,0,48437,Individual,Petrol,Automatic,12.9,1197,173.7,5,1453456.71
+Mahindra,12,53012,Dealer,Diesel,Automatic,21.0,1197,70.2,7,1040575.66
+Mahindra,4,68260,Trustmark Dealer,Diesel,Manual,20.8,1498,66.5,5,1465027.27
+Ford,4,117522,Individual,Petrol,Automatic,17.7,1197,70.7,5,856735.66
+Honda,2,112749,Trustmark Dealer,LPG,Manual,25.3,1200,58.3,5,1151081.11
+Toyota,12,103242,Trustmark Dealer,Petrol,Manual,16.4,1800,86.0,5,1297750.64
+Maruti,1,49553,Trustmark Dealer,Diesel,Manual,22.1,1800,160.9,5,1219113.9
+Hyundai,10,54839,Dealer,Petrol,Manual,15.6,1000,54.5,5,405136.39
+Tata,5,139960,Trustmark Dealer,LPG,Automatic,22.2,1000,126.1,5,903811.5
+Maruti,3,97794,Individual,Diesel,Manual,21.4,2200,141.0,8,916029.73
+Honda,0,23897,Trustmark Dealer,Petrol,Automatic,18.6,800,171.5,5,1547057.58
+Kia,2,5694,Individual,Petrol,Automatic,24.7,1800,64.3,5,1579441.99
+Toyota,0,44868,Dealer,Diesel,Manual,16.6,1500,119.9,5,2124299.48
+Toyota,15,97135,Trustmark Dealer,CNG,Automatic,21.0,2200,170.3,5,1322156.09
+Hyundai,1,38858,Individual,Petrol,Automatic,21.9,1200,151.7,5,1304324.63
+Kia,12,46470,Dealer,Petrol,Automatic,15.6,1197,82.0,6,900684.43
+Honda,11,34668,Individual,Diesel,Automatic,13.3,1800,132.5,5,956376.76
+Hyundai,1,24618,Dealer,Petrol,Automatic,12.3,1000,173.8,5,1446647.55
+Mahindra,5,118704,Trustmark Dealer,Diesel,Automatic,15.1,2200,60.5,5,1534142.56
+Honda,13,110621,Trustmark Dealer,Petrol,Manual,19.4,2200,81.6,5,613943.71
+Honda,13,16722,Individual,Petrol,Manual,10.7,1500,55.7,5,503360.08
+Maruti,8,151382,Dealer,Petrol,Manual,23.0,1000,173.5,5,506668.33
+Honda,10,32019,Dealer,Diesel,Automatic,23.9,1800,110.3,5,1144787.98
+Ford,1,114719,Dealer,Petrol,Manual,11.6,1197,70.7,5,1055512.28
+Hyundai,7,7810,Individual,Petrol,Manual,22.2,1200,123.2,5,904781.21
+Maruti,16,67246,Trustmark Dealer,Petrol,Automatic,10.5,1498,172.2,5,250688.67
+Kia,16,16199,Trustmark Dealer,Petrol,Automatic,10.4,800,125.9,5,797766.28
+Kia,15,96013,Dealer,Diesel,Manual,11.1,1197,144.6,5,670946.55
+Kia,5,59490,Individual,Petrol,Automatic,23.6,1800,126.6,7,1479857.25
+Maruti,14,159843,Dealer,Petrol,Manual,14.7,2200,48.5,5,75012.21
+Hyundai,5,60770,Dealer,CNG,Automatic,18.9,1197,90.9,6,967723.28
+Hyundai,1,126074,Dealer,Diesel,Automatic,20.0,2000,149.5,5,1359499.26
+Toyota,1,161131,Individual,Petrol,Manual,16.1,1498,120.7,5,1782583.44
+Hyundai,11,155282,Individual,Petrol,Manual,20.1,1500,87.5,5,226889.62
+Honda,11,72262,Individual,Petrol,Manual,10.6,2200,160.4,5,900808.4
+Mahindra,7,110497,Individual,CNG,Automatic,26.2,1498,83.7,7,1246602.7
+Mahindra,9,93627,Individual,Diesel,Automatic,26.1,1498,104.3,5,1229675.92
+Tata,11,44071,Trustmark Dealer,Petrol,Manual,25.8,1800,55.1,5,497027.19
+Tata,11,153415,Individual,CNG,Manual,25.4,1498,163.5,6,439410.81
+Honda,4,157702,Dealer,Petrol,Automatic,12.3,1500,114.0,5,1157755.84
+Toyota,3,78874,Dealer,Diesel,Automatic,24.5,800,161.2,5,1916442.93
+Maruti,6,62908,Individual,Diesel,Automatic,24.9,800,169.8,6,741973.92
+Hyundai,9,162341,Trustmark Dealer,Petrol,Automatic,19.6,800,89.4,5,438889.75
+Toyota,10,57485,Individual,Petrol,Manual,16.2,800,163.7,5,1353998.62
+Mahindra,12,48084,Individual,Diesel,Manual,19.5,1800,45.1,4,981797.58
+Mahindra,13,53909,Trustmark Dealer,CNG,Manual,23.5,800,105.9,5,820577.69
+Tata,4,131827,Trustmark Dealer,Diesel,Manual,15.1,1500,86.9,7,828982.28
+Toyota,7,143043,Dealer,Petrol,Manual,17.3,1498,156.6,7,1533506.42
+Honda,9,51761,Dealer,Diesel,Manual,19.6,2000,139.5,5,1073945.58
+Honda,12,142599,Individual,Petrol,Manual,10.0,1500,160.6,5,615493.42
+Toyota,13,42368,Trustmark Dealer,Diesel,Manual,24.5,1200,100.9,5,1208147.21
+Toyota,10,174340,Trustmark Dealer,Diesel,Automatic,23.8,1498,137.0,5,1498091.87
+Toyota,12,23219,Trustmark Dealer,Electric,Manual,22.8,2200,127.3,5,1413196.47
+Kia,13,95493,Dealer,CNG,Automatic,16.5,800,113.3,5,832933.01
+Ford,2,68728,Trustmark Dealer,Petrol,Manual,10.3,800,108.9,5,1224135.95
+Honda,13,109781,Individual,Diesel,Automatic,15.2,1000,165.0,5,696512.54
+Tata,3,25504,Individual,Petrol,Manual,27.0,1498,60.5,7,1066702.74
+Mahindra,9,51391,Dealer,Petrol,Manual,23.6,1197,112.3,7,1017923.66
+Tata,8,94413,Trustmark Dealer,Petrol,Manual,13.1,2200,176.4,6,989328.86
+Maruti,8,102226,Trustmark Dealer,Petrol,Manual,12.4,1800,86.5,5,449312.26
+Toyota,6,26133,Trustmark Dealer,Petrol,Automatic,11.3,1800,148.4,6,1889771.28
+Toyota,12,72393,Trustmark Dealer,Diesel,Automatic,18.2,1200,150.2,5,1450594.72
+Maruti,5,42148,Trustmark Dealer,Petrol,Manual,27.0,800,162.4,7,792362.76
+Hyundai,7,122948,Individual,Petrol,Manual,13.7,1498,171.3,4,759316.17
+Hyundai,4,110633,Individual,Petrol,Manual,15.6,1500,128.0,7,1001637.72
+Toyota,11,79914,Dealer,Petrol,Automatic,26.4,1197,128.9,5,1415480.81
+Hyundai,14,73094,Trustmark Dealer,Diesel,Automatic,21.4,2000,131.8,5,727567.22
+Kia,16,93521,Dealer,Petrol,Manual,11.1,1500,156.0,5,739007.83
+Toyota,9,116502,Individual,Petrol,Manual,13.0,2000,52.0,5,1160852.84
+Hyundai,6,49744,Individual,CNG,Automatic,13.6,1197,86.7,5,892236.82
+Kia,1,90858,Individual,Petrol,Automatic,11.0,2000,73.7,7,1595319.03
+Hyundai,11,71156,Individual,Petrol,Manual,12.2,1000,96.3,5,518251.11
+Kia,10,133325,Individual,Petrol,Automatic,24.9,2000,88.5,5,999994.24
+Ford,0,12043,Trustmark Dealer,Petrol,Automatic,18.3,1200,69.9,5,1558269.96
+Honda,16,109462,Dealer,Petrol,Automatic,20.2,800,57.5,5,227189.25
+Ford,7,51736,Individual,Petrol,Manual,17.3,800,164.3,5,940919.5
+Ford,11,97366,Individual,Petrol,Automatic,21.4,1197,104.3,5,649691.07
+Hyundai,12,172434,Trustmark Dealer,Diesel,Automatic,24.2,2000,143.6,6,672567.84
+Toyota,8,30632,Dealer,Petrol,Automatic,17.3,2000,155.7,6,1730338.41
+Toyota,4,101874,Trustmark Dealer,Diesel,Automatic,25.4,2200,122.4,5,1937118.36
+Mahindra,16,40401,Individual,Diesel,Automatic,17.5,2000,73.5,5,911243.94
+Kia,8,3594,Individual,Diesel,Manual,24.9,1197,86.8,5,1187804.31
+Mahindra,8,136587,Dealer,Diesel,Automatic,15.8,1498,80.3,5,1235198.77
+Hyundai,2,28059,Trustmark Dealer,Petrol,Manual,14.2,800,52.9,6,958762.53
+Hyundai,5,40790,Dealer,Diesel,Automatic,26.3,2200,136.9,6,1317854.27
+Honda,8,90441,Trustmark Dealer,Petrol,Automatic,26.4,1800,56.5,7,869522.05
+Tata,3,64804,Dealer,CNG,Manual,12.2,2200,92.1,5,1072985.38
+Mahindra,5,2670,Individual,Petrol,Manual,21.1,1500,132.6,5,1584586.86
+Maruti,4,24526,Individual,Petrol,Manual,13.0,1197,47.7,5,657813.73
+Kia,10,111416,Trustmark Dealer,Diesel,Automatic,12.3,1500,121.1,5,1147365.65
+Honda,6,178391,Dealer,Petrol,Manual,24.3,1800,148.7,5,958162.86
+Toyota,0,99147,Trustmark Dealer,Diesel,Manual,15.6,1197,171.3,5,2112867.71
+Tata,10,141407,Dealer,Petrol,Manual,17.5,1197,137.6,4,443894.38
+Tata,4,64921,Trustmark Dealer,Diesel,Automatic,20.3,1500,174.5,5,1197421.61
+Mahindra,11,93289,Individual,Petrol,Automatic,14.7,1200,94.5,5,1044563.3
+Honda,3,68875,Trustmark Dealer,Petrol,Automatic,11.4,1800,108.4,4,1419160.8
+Maruti,5,40469,Trustmark Dealer,Petrol,Manual,14.4,1500,128.7,5,689518.31
+Kia,3,30242,Individual,Petrol,Automatic,17.0,2200,45.3,7,1505657.92
+Kia,7,64902,Trustmark Dealer,CNG,Manual,17.9,1800,176.5,4,1278952.61
+Maruti,14,149647,Trustmark Dealer,Petrol,Automatic,21.3,1000,114.6,5,98184.95
+Ford,10,133916,Individual,Petrol,Automatic,13.3,1000,64.4,6,429945.74
+Hyundai,9,19756,Dealer,Diesel,Manual,25.0,2000,118.8,6,892399.16
+Maruti,8,146619,Trustmark Dealer,Petrol,Automatic,15.2,1200,115.0,5,464601.45
+Kia,7,88578,Individual,CNG,Manual,25.7,1200,73.0,5,1007177.16
+Mahindra,14,18732,Individual,CNG,Automatic,20.0,1498,113.9,4,1120942.51
+Maruti,4,81287,Dealer,Diesel,Manual,11.6,1498,54.9,5,655932.53
+Honda,10,149816,Individual,CNG,Manual,11.5,1000,163.2,5,673713.93
+Honda,16,114073,Trustmark Dealer,Diesel,Manual,20.1,800,178.5,7,548693.76
+Maruti,6,61673,Individual,Petrol,Manual,14.7,1800,91.6,5,658462.28
+Hyundai,7,13467,Individual,LPG,Automatic,18.9,1000,71.6,5,865445.29
+Ford,0,117820,Individual,Petrol,Automatic,11.5,1500,104.5,5,1192995.37
+Maruti,6,40070,Individual,Petrol,Manual,26.8,1498,179.5,7,829881.99
+Mahindra,1,151395,Individual,Petrol,Manual,11.6,800,106.2,5,1293399.39
+Mahindra,12,48887,Dealer,CNG,Manual,19.2,1197,69.9,5,867461.33
+Tata,2,44342,Dealer,Petrol,Automatic,25.8,1000,50.8,5,1089143.55
+Mahindra,4,146419,Dealer,Petrol,Manual,13.8,1800,71.1,5,1356847.17
+Mahindra,13,46465,Trustmark Dealer,Diesel,Automatic,18.2,1500,167.2,5,1327212.45
+Kia,10,38795,Dealer,Petrol,Manual,15.3,1200,159.3,5,1200713.52
+Ford,7,93447,Trustmark Dealer,Petrol,Automatic,18.2,2200,80.1,5,991692.94
+Maruti,12,79937,Trustmark Dealer,Diesel,Manual,17.6,1498,156.8,7,450187.78
+Honda,16,22224,Dealer,Diesel,Manual,22.0,2200,66.8,5,486635.97
+Hyundai,13,118581,Individual,Diesel,Automatic,13.1,2200,98.0,5,567735.88
+Ford,2,18347,Individual,Petrol,Manual,19.8,1500,66.1,5,1089227.24
+Honda,4,53556,Trustmark Dealer,Petrol,Manual,25.7,1498,117.8,5,1265292.42
+Mahindra,3,86450,Individual,Diesel,Automatic,13.2,2000,74.6,5,1644815.88
+Hyundai,10,60803,Trustmark Dealer,CNG,Manual,21.2,1197,120.6,5,617853.63
+Mahindra,1,173212,Trustmark Dealer,Diesel,Automatic,18.8,2200,88.4,6,1680994.71
+Toyota,8,61789,Trustmark Dealer,Petrol,Automatic,24.7,1500,87.9,5,1500021.24
+Toyota,13,107613,Trustmark Dealer,Petrol,Manual,12.6,2200,115.0,5,1167699.3
+Toyota,15,115190,Trustmark Dealer,Diesel,Manual,18.7,1200,113.8,4,975599.94
+Maruti,14,136806,Trustmark Dealer,Diesel,Automatic,19.0,1200,49.5,5,69511.07
+Tata,4,11715,Individual,Diesel,Automatic,17.1,1200,78.7,5,1139461.11
+Tata,8,129464,Dealer,Petrol,Manual,11.2,2200,105.9,5,733147.84
+Mahindra,4,95220,Trustmark Dealer,Petrol,Manual,14.2,1500,47.6,5,1293644.96
+Mahindra,7,159280,Trustmark Dealer,Diesel,Manual,15.0,2200,151.5,5,1458445.03
+Toyota,16,168126,Dealer,CNG,Manual,12.2,1800,139.4,5,877427.76
+Ford,13,117745,Individual,Petrol,Manual,18.4,800,55.9,5,196221.43
+Toyota,14,162427,Individual,Petrol,Automatic,25.0,1000,68.6,5,796832.24
+Maruti,13,152684,Individual,Diesel,Manual,22.8,1800,70.7,5,60000.0
+Mahindra,3,137456,Trustmark Dealer,Petrol,Manual,11.9,1498,121.6,5,1404165.42
+Honda,1,35285,Trustmark Dealer,Diesel,Manual,10.2,1000,90.2,5,1359006.39
+Toyota,14,128662,Dealer,Petrol,Automatic,14.3,1500,176.8,4,1320075.1
+Tata,13,127604,Individual,Petrol,Manual,24.8,1200,117.5,5,209322.18
+Ford,14,25113,Dealer,Petrol,Automatic,14.5,1800,160.4,4,873180.27
+Toyota,13,50129,Dealer,Petrol,Manual,19.0,1000,159.2,5,1254728.59
+Toyota,7,90882,Trustmark Dealer,Petrol,Automatic,25.1,2200,83.2,6,1584555.35
+Mahindra,8,58209,Dealer,Diesel,Automatic,22.9,2000,179.8,5,1580301.14
+Mahindra,14,17602,Individual,Petrol,Automatic,24.6,1200,84.0,5,898865.38
+Ford,6,23961,Dealer,Petrol,Manual,12.7,2200,167.8,5,1405159.07
+Ford,10,36284,Individual,Petrol,Manual,20.0,800,154.3,5,596158.46
+Hyundai,10,179545,Dealer,Diesel,Automatic,22.1,1498,179.6,5,689443.34
+Hyundai,2,70999,Dealer,Petrol,Automatic,20.7,2200,115.2,6,1310471.83
+Kia,13,51282,Individual,Diesel,Manual,23.4,2200,160.2,5,1181605.67
+Ford,9,8400,Dealer,Petrol,Automatic,19.4,1000,52.9,5,730525.65
+Hyundai,15,169542,Individual,LPG,Manual,18.1,800,158.4,5,69747.0
+Ford,0,143457,Dealer,Diesel,Automatic,12.1,1000,121.8,5,1234398.94
+Honda,16,178611,Trustmark Dealer,CNG,Automatic,24.1,1498,69.7,5,221659.0
+Toyota,0,89174,Trustmark Dealer,Diesel,Automatic,15.3,2200,110.6,5,2310970.68
+Kia,9,167607,Dealer,Electric,Automatic,12.0,1800,109.2,5,998583.25
+Mahindra,7,7469,Individual,Petrol,Manual,12.8,1498,124.7,5,1509483.37
+Mahindra,3,130887,Trustmark Dealer,Petrol,Automatic,15.4,1498,75.4,5,1290884.89
+Toyota,15,90892,Individual,Petrol,Automatic,19.9,1800,72.1,5,1043704.48
+Hyundai,11,9768,Dealer,Petrol,Automatic,22.9,1000,66.2,5,530570.25
+Kia,12,92187,Individual,Petrol,Automatic,20.1,1498,169.1,5,1010380.96
+Kia,2,89155,Dealer,Petrol,Automatic,12.6,1800,79.7,5,1573975.06
+Ford,0,52898,Individual,Petrol,Manual,13.1,1197,127.8,5,1262167.87
+Honda,6,98276,Individual,Petrol,Manual,10.5,1197,86.6,7,899444.82
+Maruti,6,134567,Dealer,Diesel,Automatic,14.0,2000,85.0,5,728132.74
+Honda,5,28447,Trustmark Dealer,CNG,Automatic,17.8,800,96.5,5,1114024.13
+Mahindra,0,24432,Trustmark Dealer,Electric,Automatic,21.2,1500,116.3,5,1928533.21
+Mahindra,9,56200,Individual,Diesel,Automatic,17.1,1200,89.2,7,1233070.06
+Kia,2,107268,Individual,Diesel,Automatic,14.0,2200,167.3,5,1769327.86
+Maruti,0,168749,Dealer,Diesel,Manual,14.0,1498,156.8,7,914327.29
+Ford,10,156498,Trustmark Dealer,Petrol,Manual,14.8,2000,149.7,5,754621.42
+Kia,9,179609,Dealer,CNG,Manual,11.8,2200,81.6,5,847161.52
+Maruti,8,40219,Trustmark Dealer,Diesel,Manual,17.7,800,128.4,5,569094.35
+Tata,6,143191,Dealer,Petrol,Manual,15.5,1800,124.5,5,796100.26
+Ford,2,106822,Individual,Petrol,Automatic,15.1,1200,148.0,5,1303860.3
+Toyota,7,172580,Trustmark Dealer,CNG,Manual,19.5,1800,142.8,5,1406983.27
+Ford,9,121726,Trustmark Dealer,Petrol,Automatic,18.2,1500,112.9,5,807856.99
+Tata,14,126700,Individual,Petrol,Automatic,10.5,800,178.6,5,271439.28
+Toyota,4,127205,Trustmark Dealer,Petrol,Manual,14.8,1800,54.5,5,1558737.28
+Tata,11,62754,Individual,Diesel,Automatic,22.3,1800,48.3,5,739970.54
+Ford,4,2711,Individual,Diesel,Manual,21.2,1000,146.9,4,1176506.53
+Ford,9,90721,Individual,CNG,Automatic,16.2,1000,159.6,5,756097.96
+Ford,1,150213,Dealer,Petrol,Automatic,23.4,1800,159.7,8,1396291.45
+Toyota,13,13776,Dealer,CNG,Manual,25.0,1500,76.8,5,1126705.9
+Maruti,3,73244,Individual,Electric,Automatic,13.1,1200,89.7,5,709282.51
+Honda,15,116193,Trustmark Dealer,Diesel,Manual,15.5,1800,160.7,5,669123.94
+Maruti,16,28368,Trustmark Dealer,Petrol,Manual,17.9,1800,88.6,5,89990.34
+Tata,9,100621,Dealer,Petrol,Manual,26.0,1000,131.2,7,464379.19
+Mahindra,10,50646,Trustmark Dealer,Petrol,Manual,14.5,1000,81.8,5,923441.2
+Toyota,4,126991,Dealer,Petrol,Automatic,21.7,1200,68.7,5,1492258.01
+Maruti,0,3872,Dealer,Petrol,Manual,26.9,1197,169.0,5,1246167.07
+Kia,7,36946,Trustmark Dealer,Diesel,Manual,12.1,1000,101.3,7,1224109.87
+Maruti,1,178843,Dealer,Petrol,Manual,25.6,1800,106.4,5,835903.85
+Maruti,6,115839,Trustmark Dealer,Petrol,Manual,14.7,2000,66.3,5,578420.87
+Kia,4,7484,Dealer,Petrol,Manual,12.3,1000,55.5,7,1242690.16
+Ford,0,62211,Trustmark Dealer,Diesel,Automatic,15.9,2200,83.5,5,1622262.17
+Kia,12,1933,Dealer,Petrol,Manual,24.5,1800,99.0,5,1032087.93
+Hyundai,8,43474,Dealer,Diesel,Manual,17.6,2200,91.2,5,893571.99
+Kia,5,146584,Individual,Petrol,Manual,15.9,1000,152.1,5,1202024.47
+Tata,15,79719,Dealer,Petrol,Automatic,20.0,1200,113.4,5,361876.58
+Hyundai,9,134566,Individual,Diesel,Automatic,15.7,800,153.6,5,771755.35
+Kia,6,29816,Individual,CNG,Manual,14.0,1200,167.8,5,1395118.53
+Hyundai,0,63152,Individual,Diesel,Automatic,13.8,1000,150.2,5,1412906.89
+Hyundai,0,95085,Dealer,Diesel,Manual,11.9,2000,71.6,5,1166245.88
+Hyundai,8,146828,Trustmark Dealer,Diesel,Manual,26.8,1200,53.8,7,484455.73
+Kia,8,87134,Trustmark Dealer,Petrol,Manual,14.6,1200,133.9,5,1165821.93
+Toyota,12,8927,Dealer,Petrol,Automatic,17.6,800,45.8,5,1126690.7
+Tata,1,135882,Individual,Diesel,Automatic,27.0,1197,168.7,5,1288908.2
+Ford,14,30129,Individual,Diesel,Manual,21.6,1000,111.3,4,480403.52
+Ford,16,90882,Individual,Petrol,Automatic,18.1,1000,158.8,5,321382.5
+Hyundai,3,78402,Individual,Petrol,Manual,22.4,2000,100.2,5,1112261.75
+Tata,9,33001,Dealer,Diesel,Automatic,26.0,1498,102.8,4,941811.25
+Mahindra,8,179992,Dealer,Diesel,Manual,14.7,1800,134.8,5,1216536.53
+Honda,6,151048,Individual,Petrol,Automatic,25.5,2000,125.1,5,1029894.58
+Toyota,12,32544,Individual,Diesel,Automatic,10.2,800,61.6,5,1190475.77
+Tata,7,116765,Individual,Petrol,Manual,15.1,1200,63.6,5,508238.87
+Mahindra,13,7222,Individual,Diesel,Manual,12.1,2000,56.7,7,1059932.15
+Mahindra,10,110827,Individual,Petrol,Automatic,25.1,1498,81.6,5,1068020.18
+Ford,1,108395,Individual,Petrol,Manual,20.8,1200,103.5,5,1211260.63
+Hyundai,9,127798,Dealer,Diesel,Automatic,21.6,1000,97.3,5,631866.71
+Ford,10,137105,Dealer,Petrol,Automatic,24.4,2000,59.7,5,661581.35
+Mahindra,16,58780,Individual,Petrol,Manual,14.6,1200,138.4,5,627947.15
+Ford,8,112468,Trustmark Dealer,Diesel,Automatic,14.9,1498,69.3,7,720091.06
+Ford,9,61921,Trustmark Dealer,Petrol,Manual,13.7,1800,61.3,5,718018.32
+Ford,15,157079,Individual,Diesel,Manual,21.4,1800,169.3,5,418429.88
+Mahindra,4,103427,Trustmark Dealer,Petrol,Manual,13.7,1200,110.5,5,1337932.66
+Toyota,12,155681,Dealer,Diesel,Manual,20.7,1197,65.8,5,1114746.16
+Ford,10,95421,Individual,CNG,Manual,20.1,800,177.8,5,694897.4
+Maruti,10,85846,Trustmark Dealer,Diesel,Automatic,13.9,1800,145.1,5,578499.56
+Mahindra,3,168952,Individual,CNG,Automatic,16.1,1197,141.5,5,1446756.8
+Maruti,8,103193,Individual,Petrol,Manual,16.3,800,88.0,4,221111.4
+Toyota,10,145853,Individual,Petrol,Automatic,19.9,2000,100.6,5,1228441.65
+Kia,13,55061,Trustmark Dealer,CNG,Automatic,15.3,1197,66.7,5,740920.91
+Toyota,10,100154,Individual,CNG,Manual,10.1,800,160.4,5,1162696.06
+Mahindra,10,57963,Individual,Petrol,Automatic,16.0,1498,128.1,5,1176681.17
+Honda,13,115358,Individual,Petrol,Automatic,23.2,1200,132.9,5,572274.78
+Hyundai,3,110567,Dealer,Petrol,Automatic,13.3,1800,84.3,5,1097961.26
+Tata,10,172648,Dealer,CNG,Manual,24.9,2000,130.0,5,674139.22
+Kia,7,77832,Individual,Diesel,Automatic,10.1,800,160.0,5,1307101.48
+Honda,10,43327,Individual,CNG,Automatic,25.0,1000,148.0,5,880875.43
+Hyundai,5,100436,Dealer,Petrol,Manual,13.9,2200,157.1,5,1167346.14
+Kia,3,160852,Dealer,Diesel,Automatic,23.9,1000,82.1,5,1315567.35
+Ford,10,91972,Individual,Petrol,Automatic,15.1,1000,64.6,7,529630.49
+Ford,10,8453,Dealer,Petrol,Manual,15.0,1498,91.4,5,768881.07
+Toyota,16,110836,Individual,Petrol,Manual,15.9,1000,141.8,5,802157.49
+Tata,7,65402,Individual,LPG,Manual,23.3,1200,101.2,7,668179.79
+Kia,7,4136,Trustmark Dealer,Petrol,Manual,26.9,1200,120.0,5,1294186.83
+Toyota,14,175387,Trustmark Dealer,Diesel,Automatic,10.4,1197,127.9,6,962908.02
+Kia,2,148221,Individual,Petrol,Automatic,12.9,2000,127.6,5,1493510.35
+Maruti,1,5433,Trustmark Dealer,Diesel,Automatic,10.9,1800,113.3,5,1277383.71
+Maruti,7,47478,Dealer,Diesel,Automatic,17.5,800,73.9,7,549735.98
+Hyundai,5,167481,Individual,Petrol,Manual,24.9,1498,112.5,5,674723.56
+Kia,3,61973,Trustmark Dealer,Diesel,Manual,15.4,1500,170.5,5,1577180.84
+Maruti,15,139731,Dealer,CNG,Automatic,21.2,1197,56.9,5,60000.0
+Maruti,1,64431,Individual,Petrol,Automatic,17.7,1500,85.7,8,905425.07
+Toyota,2,156354,Dealer,Diesel,Manual,16.2,1800,145.7,5,1816926.71
+Mahindra,12,151062,Dealer,CNG,Automatic,13.0,800,51.5,5,696265.0
+Maruti,8,174927,Dealer,Diesel,Automatic,10.1,1200,136.0,5,439266.36
+Honda,0,131456,Dealer,CNG,Manual,20.3,1500,137.0,5,1347498.48
+Maruti,14,20612,Trustmark Dealer,Petrol,Manual,22.8,1200,118.3,5,265438.76
+Kia,2,54273,Dealer,Petrol,Automatic,10.9,800,170.5,5,1584929.11
+Ford,7,156610,Individual,LPG,Automatic,16.9,2200,105.6,5,917963.12
+Honda,4,13587,Individual,Petrol,Manual,11.7,1500,58.9,5,1197486.5
+Ford,2,10515,Individual,Petrol,Manual,23.6,1197,168.6,5,1332448.33
+Kia,12,107332,Dealer,Petrol,Manual,17.4,800,121.3,5,678525.54
+Maruti,5,162532,Individual,Petrol,Automatic,18.7,1500,72.2,5,552751.94
+Maruti,8,118267,Individual,Petrol,Manual,22.8,2000,163.2,5,550770.11
+Kia,7,94033,Individual,Diesel,Manual,12.6,1500,164.6,5,1246394.97
+Mahindra,5,160707,Trustmark Dealer,CNG,Manual,26.3,1498,163.2,6,1471407.42
+Tata,6,177283,Trustmark Dealer,Diesel,Automatic,13.0,1800,143.7,7,893092.73
+Ford,16,33198,Dealer,Petrol,Automatic,23.3,1000,119.9,5,306222.76
+Mahindra,5,114420,Dealer,CNG,Manual,23.0,1800,123.8,8,1546908.78
+Honda,4,150215,Individual,Diesel,Manual,22.3,1500,90.3,4,1005822.57
+Maruti,16,105885,Individual,Petrol,Automatic,17.2,1197,78.9,5,60000.0
+Mahindra,5,24997,Dealer,Petrol,Manual,16.9,2200,89.3,5,1568169.55
+Kia,14,63794,Individual,Petrol,Automatic,20.2,1000,169.4,5,751584.25
+Toyota,13,47884,Trustmark Dealer,Petrol,Manual,16.1,1000,149.7,5,1173466.04
+Honda,14,43342,Individual,Petrol,Automatic,24.8,800,123.6,5,628711.3
+Mahindra,12,135496,Trustmark Dealer,Diesel,Automatic,25.5,1000,146.7,5,1037041.58
+Kia,15,53924,Trustmark Dealer,Diesel,Manual,16.2,1200,155.6,5,768329.04
+Kia,2,143448,Trustmark Dealer,CNG,Manual,17.3,2200,150.8,6,1637045.75
+Toyota,2,88730,Trustmark Dealer,Petrol,Automatic,21.1,1500,137.0,5,2067197.25
+Hyundai,3,105958,Trustmark Dealer,Petrol,Automatic,23.3,1800,70.5,5,1052870.91
+Mahindra,1,36465,Individual,Petrol,Manual,19.6,2200,97.3,7,1636474.01
+Maruti,7,111448,Dealer,Petrol,Manual,21.7,1197,50.5,5,224996.47
+Toyota,6,132756,Individual,Diesel,Manual,16.0,1800,67.1,5,1521986.19
+Ford,4,20621,Trustmark Dealer,Petrol,Automatic,22.4,1000,108.3,4,1124979.85
+Tata,2,8924,Dealer,Petrol,Automatic,23.4,1498,45.8,7,1202133.14
+Ford,16,54051,Trustmark Dealer,CNG,Manual,16.1,1500,104.8,5,322060.25
+Honda,12,48651,Individual,Diesel,Manual,26.0,1000,66.0,5,629742.87
+Hyundai,13,1338,Trustmark Dealer,LPG,Manual,24.1,1197,92.5,5,398745.06
+Maruti,0,7999,Dealer,Diesel,Automatic,25.8,1000,116.6,5,1261395.48
+Tata,3,24958,Individual,Diesel,Automatic,11.8,800,144.9,5,1272908.18
+Hyundai,13,83936,Individual,Petrol,Automatic,20.8,800,53.5,7,304476.39
+Ford,11,11193,Individual,Petrol,Manual,19.7,1498,179.8,4,846308.76
+Tata,5,168103,Dealer,CNG,Manual,25.0,2200,64.3,5,878480.37
+Toyota,5,165023,Dealer,Petrol,Automatic,24.6,1197,78.8,7,1527736.67
+Hyundai,0,99965,Individual,Petrol,Automatic,11.9,1498,129.5,7,1359432.64
+Maruti,2,86309,Dealer,Diesel,Manual,11.7,1500,117.5,5,1052183.38
+Honda,1,37576,Trustmark Dealer,Petrol,Manual,12.5,1000,122.0,5,1270336.96
+Tata,11,10385,Individual,CNG,Automatic,13.4,1197,173.9,6,669431.44
+Tata,14,146771,Dealer,Petrol,Manual,22.8,2000,85.2,5,134690.65
+Mahindra,0,17502,Trustmark Dealer,Diesel,Manual,20.2,1500,119.3,5,1994985.0
+Mahindra,10,138308,Trustmark Dealer,Petrol,Automatic,11.1,1197,92.3,5,978817.76
+Honda,14,156764,Individual,Petrol,Manual,12.5,1800,170.5,5,424888.52
+Honda,2,166460,Trustmark Dealer,Petrol,Automatic,12.7,1500,71.2,7,1167399.84
+Kia,0,123637,Dealer,CNG,Automatic,12.2,1197,177.6,5,1621800.54
+Mahindra,12,84815,Trustmark Dealer,Petrol,Automatic,22.2,1197,141.8,7,1017497.37
+Maruti,5,103844,Dealer,Diesel,Manual,23.4,1200,123.9,4,630166.13
+Hyundai,10,122328,Trustmark Dealer,Petrol,Manual,18.1,1500,116.8,5,503275.19
+Tata,15,96340,Dealer,Diesel,Manual,20.2,800,102.9,5,234312.85
+Tata,12,141367,Individual,Diesel,Manual,13.9,1500,104.5,7,475560.77
+Ford,1,114225,Dealer,Petrol,Automatic,20.4,1500,46.4,5,1202279.38
+Toyota,13,15550,Individual,Petrol,Manual,13.1,1200,101.8,5,1081897.1
+Tata,11,92844,Individual,Diesel,Manual,19.6,800,97.8,6,405414.55
+Maruti,6,48903,Dealer,Petrol,Automatic,11.4,1500,103.7,5,779118.38
+Hyundai,7,132303,Dealer,Petrol,Manual,13.4,1197,168.1,6,743975.12
+Kia,12,133798,Dealer,Petrol,Manual,12.2,1498,73.3,5,681459.31
+Toyota,15,64013,Dealer,CNG,Automatic,24.8,1500,93.8,5,1117873.63
+Toyota,15,104904,Individual,Diesel,Manual,16.3,1800,162.1,5,1167519.85
+Mahindra,9,153876,Dealer,Petrol,Automatic,13.3,800,148.9,7,1098721.28
+Maruti,1,44195,Dealer,CNG,Manual,14.9,1800,61.7,7,874959.51
+Toyota,0,62931,Trustmark Dealer,Petrol,Automatic,22.9,800,117.4,5,1974930.13
+Tata,14,140010,Individual,Diesel,Automatic,19.4,1800,177.7,5,589869.67
+Tata,3,93166,Trustmark Dealer,Electric,Manual,11.7,800,148.1,5,1024215.07
+Mahindra,15,179478,Trustmark Dealer,CNG,Automatic,15.5,1500,167.4,5,826798.56
+Toyota,15,25391,Trustmark Dealer,CNG,Automatic,26.2,1000,127.7,5,1197066.55
+Hyundai,6,43620,Trustmark Dealer,Diesel,Automatic,25.2,2000,136.8,5,1145773.99
+Ford,16,74408,Trustmark Dealer,LPG,Manual,16.5,800,147.6,5,317750.0
+Honda,10,41271,Individual,Petrol,Manual,10.9,1197,55.8,7,363134.75
+Mahindra,7,170048,Dealer,Diesel,Automatic,22.7,1200,153.2,7,1157885.47
+Ford,8,58622,Individual,Petrol,Automatic,19.3,1800,142.7,5,1127884.4
+Kia,16,33809,Dealer,CNG,Automatic,22.5,1197,163.7,6,757482.34
+Ford,7,136785,Trustmark Dealer,Diesel,Manual,11.9,1000,149.2,5,847075.59
+Toyota,15,93874,Dealer,Petrol,Automatic,20.3,1200,147.6,5,1109885.68
+Honda,12,158319,Trustmark Dealer,CNG,Manual,22.8,800,114.4,5,385237.94
+Toyota,12,88972,Dealer,Diesel,Manual,13.4,1197,92.3,5,1111333.27
+Honda,14,86817,Trustmark Dealer,Petrol,Manual,12.7,1200,137.7,5,509037.65
+Toyota,13,70861,Trustmark Dealer,Petrol,Automatic,21.1,1197,119.2,5,1109250.45
+Ford,8,159332,Dealer,Petrol,Manual,15.7,1200,81.5,5,589349.15
+Maruti,15,127039,Trustmark Dealer,Petrol,Automatic,23.4,800,179.3,7,101170.79
+Ford,4,77325,Individual,Diesel,Automatic,18.7,1500,119.9,5,1404796.19
+Toyota,0,52433,Dealer,Diesel,Automatic,15.6,1800,156.5,5,2315371.11
+Hyundai,3,109651,Dealer,Petrol,Automatic,12.6,1000,67.4,5,973912.81
+Tata,2,4739,Trustmark Dealer,Petrol,Manual,13.8,1197,151.0,7,1165535.94
+Tata,0,70540,Individual,Petrol,Automatic,11.4,2000,175.5,5,1512085.45
+Toyota,14,95762,Individual,Diesel,Manual,24.3,1000,116.4,5,1130347.43
+Toyota,0,126816,Individual,Diesel,Automatic,25.0,1498,130.8,5,2071635.26
+Kia,2,129769,Trustmark Dealer,Petrol,Automatic,14.6,1498,80.7,5,1393127.95
+Ford,13,143460,Trustmark Dealer,Petrol,Automatic,10.2,1498,145.8,5,491856.9
+Tata,2,90582,Trustmark Dealer,Diesel,Automatic,10.8,2000,179.0,5,1472334.38
+Toyota,4,17985,Individual,Diesel,Manual,16.7,1197,133.5,7,1887079.34
+Mahindra,10,144017,Individual,Diesel,Automatic,14.5,800,52.7,5,973430.37
+Kia,11,163608,Dealer,Petrol,Automatic,10.8,1498,103.1,5,879705.74
+Maruti,1,76471,Trustmark Dealer,Petrol,Automatic,12.6,800,112.2,5,1011719.44
+Hyundai,4,14417,Trustmark Dealer,Petrol,Manual,23.6,1500,97.1,5,1042088.96
+Tata,16,33013,Trustmark Dealer,Petrol,Automatic,15.9,1800,66.6,5,340702.69
+Hyundai,9,46087,Trustmark Dealer,Petrol,Automatic,16.2,1800,50.8,5,791315.67
+Ford,8,116659,Individual,Diesel,Automatic,25.4,2200,122.2,5,1062530.26
+Ford,13,12317,Trustmark Dealer,Diesel,Automatic,12.0,1498,121.8,5,757310.01
+Hyundai,8,111435,Dealer,CNG,Manual,24.6,2000,147.6,5,821915.88
+Hyundai,10,97765,Individual,Petrol,Automatic,24.0,1000,145.4,7,672946.34
